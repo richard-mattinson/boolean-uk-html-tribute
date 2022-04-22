@@ -1,0 +1,48 @@
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+header {
+    background: linear-gradient(35deg, darkorange, orange);
+    color: white;
+    padding: 10px;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 2em;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    background: slategray;
+    color: white;
+    padding-left: 10px;
+}
+
+.places {
+background: orange;
+font-size: 2em;
+color: white;
+display: inline;
+padding: 10px;
+}
+
+.main img {
+width: 33%;
+display: inline;
+}
+
+.gallery img {
+    width: 100%;
+}
+
+footer {
+    background: black;
+    color: white;
+    padding: 5px 0px 5px 10px;
+}
